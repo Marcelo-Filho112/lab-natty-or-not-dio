@@ -15,5 +15,5 @@ link: https://youtu.be/15qgFNmDSAw
 
 ## 🚀 Resultados
 Atualmente ainda não temos poder computacional para desenvolver uma IA geral, capaz de abraçar todas as áreas do conhecimento e atividades, contudo exitem no mercado muitas outras excelentes ferramentas em atividade específicas. 
-Dessa forma, com o desenvolvimento desse projeto notei que juntando esses softwares e aproveitando das IAs consegui fazer um produto muito bom, mesmo eu não tendo experiencia em criar roteiros e editar vídeos. Logo, acredito que será cada vez mais a utilização das IAs generativas tanto no mercado de trabalho quanto no cotidiano.
+Dessa forma, com o desenvolvimento desse projeto notei que juntando esses softwares e aproveitando das IAs consegui fazer um produto muito bom, mesmo eu não tendo experiencia em criar roteiros e editar vídeos. Logo, acredito que será cada vez mais utilizado as IAs generativas tanto no mercado de trabalho quanto no cotidiano.
 
